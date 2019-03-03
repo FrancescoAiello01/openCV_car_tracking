@@ -2,6 +2,8 @@
 
 This project detects cars within a predefined region of the screen using background subtraction and a mixture of gaussian distribution filter.
 
+Demonstration: https://www.youtube.com/watch?v=AsBnx-JCBLQ
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
