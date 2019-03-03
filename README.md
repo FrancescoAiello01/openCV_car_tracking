@@ -45,6 +45,7 @@ VideoCapture capture =new VideoCapture(0); //use webcam
 
 Add additional notes about how to deploy this on a live system
 
+
 ## Built With
 
 * [OpenCV](https://opencv.org/) - Image processing framework
@@ -54,13 +55,11 @@ Add additional notes about how to deploy this on a live system
 
 Please feel free to initiate requests and report issues. However, please note, this project is not actively supported.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/openCV_car_tracking/tags). 
 
 ## Authors
 
 * **Francesco Aiello** - *Initial work* - [FrancescoAiell01](https://github.com/FrancescoAiello01)
+
 
 ## License
 
