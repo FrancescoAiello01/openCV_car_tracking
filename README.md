@@ -9,7 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Java SDK
-*Recommended*: Netbeans Java IDE
 
 ### Installing
 
@@ -22,7 +21,6 @@ git clone https://github.com/FrancescoAiello01/openCV_car_tracking.git
 ```
 Open project with IDE of choice
 
-Compile
 
 ## Running Software
 
@@ -41,6 +39,7 @@ Comment out line 655 and uncomment like 656
 ```
 //VideoCapture capture =new VideoCapture("footage.mp4");
 VideoCapture capture =new VideoCapture(0); //use webcam
+```
 
 ## Deployment
 
